@@ -1,6 +1,6 @@
 {
   "name": "figma-developer-mcp-misa",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Model Context Protocol server for Figma integration",
   "keywords": [
     "figma",
@@ -20,7 +20,7 @@
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "figma-developer-mcp": "dist/index.js"
+    "figma-developer-mcp-misa": "dist/index.js"
   },
   "directories": {
     "doc": "docs"
